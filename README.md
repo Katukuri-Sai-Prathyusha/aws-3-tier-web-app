@@ -21,7 +21,6 @@ User → Application Load Balancer → EC2 Flask Application → RDS PostgreSQL
 - Application Load Balancer
 - Target Group
 - Amazon RDS PostgreSQL
-- CloudWatch
 
 ## Project Flow
 
