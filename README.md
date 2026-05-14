@@ -8,6 +8,8 @@ The application is built using Python Flask and connects to a private RDS Postgr
 
 ## Architecture
 
+![Architecture Diagram](screenshots/01-architecture.png)
+
 User → Application Load Balancer → EC2 Flask Application → RDS PostgreSQL
 
 ## AWS Services Used
